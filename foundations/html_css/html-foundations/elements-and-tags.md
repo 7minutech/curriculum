@@ -47,6 +47,8 @@ You might also see these referred to as self-closing tags. But those are just vo
 
 1. Watch Kevin Powell's [Introduction to HTML Video](https://www.youtube.com/watch?v=LGQuIIv2RVA).
 
+1. Watch Aaron Jacks's [HTML in 5 minutes video] (https://www.youtube.com/watch?v=salY_Sm6mv4).
+
 </div>
 
 ### Knowledge check
